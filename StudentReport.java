@@ -7,6 +7,9 @@ package com.mycompany.studentreport;
 /**
  *
  * @author nivasharma
+ * This Java program reads student data from a file named "student_data.txt" and calculates the average test grade for each student. 
+ * It then determines the corresponding letter grade based on the average and prints the student name, average, and grade. 
+ * Finally, it calculates and prints the overall average test grade for all students.
  */
 import java.io.File;
 import java.io.FileNotFoundException;
