@@ -1,7 +1,7 @@
-# Student Report
+# Academic Performance Tracker
 
 ## Overview
-The Student Report project is a Java program designed to read student data from a file named `student_data.txt`, calculate the average test grade for each student, and determine the corresponding letter grade. Additionally, it calculates and prints the overall average test grade for all students.
+The Academic Performance Tracker project is a Java program designed to read student data from a file named `student_data.txt`, calculate the average test grade for each student, and determine the corresponding letter grade. Additionally, it calculates and prints the overall average test grade for all students.
 
 ## Features
 - **File Reading**: Reads student names and their test scores from a specified text file.
